@@ -1,6 +1,7 @@
+[![MasterHead](https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)]
 <h1 align="center">Hi 👋, I'm Yordanos</h1>
-<h3 align="center" color="blue" >A passionate frontend developer from Ethiopia</h3>
-<img allign="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordaaa&label=Profile%20views&color=0e75b6&style=flat" alt="yordaaa" /> </p>
 
